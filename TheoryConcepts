@@ -1,0 +1,6 @@
+Security Through Obscurity:
+Security Through Obscurity is a security idea where a system is protected by keeping its details secret. If attackers don’t know these details, they can’t easily attack the system. This method is not very reliable. If someone discovers the hidden information, the system can be easily hacked. Thus, obscurity should only be used as extra protection, and not the main defense.
+
+Attack Surface: 
+Attack surface refers to all the possible ways an attacker can enter or attack a system. This includes websites, apps, open ports, login pages, APIs, and user accounts. The larger the attack surface, the more opportunities attackers have to find weaknesses. Thus, reducing the attack surface is important for security. 
+
