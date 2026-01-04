@@ -1,0 +1,9 @@
+Goal: Find a specific word inside a large file
+
+Commands Used: grep millionth data.txt
+
+
+ssh bandit7@bandit.labs.overthewire.org -p 2220
+
+Password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+

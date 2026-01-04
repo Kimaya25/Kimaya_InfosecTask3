@@ -1,0 +1,8 @@
+Goal: Find a file owned by a specific user and group
+
+Commands Used: find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+
+
+ssh bandit6@bandit.labs.overthewire.org -p 2220
+
+Password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj

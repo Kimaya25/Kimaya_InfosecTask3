@@ -1,0 +1,7 @@
+Goal: Decode a Base64-encoded file
+
+Commands Used: base64 -d data.txt
+
+ssh bandit10@bandit.labs.overthewire.org -p 2220
+
+Password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

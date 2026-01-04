@@ -1,0 +1,7 @@
+Goal: Extract readable strings from a binary file
+
+Commands Used: strings data.txt | grep "="
+
+ssh bandit9@bandit.labs.overthewire.org -p 2220
+
+Password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey

@@ -1,0 +1,7 @@
+Goal: Find the unique line in a file
+
+Commands Used: sort data.txt | uniq -u
+
+ssh bandit8@bandit.labs.overthewire.org -p 2220
+
+Password: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
